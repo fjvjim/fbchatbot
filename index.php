@@ -1,0 +1,1 @@
+<?php echo "Bonjour tous les mondes"?>
